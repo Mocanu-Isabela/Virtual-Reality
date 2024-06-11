@@ -5,7 +5,7 @@ Basic ray tracing in C# by rendering spheres on the screen. This implementation 
 
 
 # Volume Renderer
-Volume-rendered virtual reality learning objects using medical imaging data. This implementation allows users to 'slice' through the objects to visualize internal anatomy and renders CT scan or MRI data, in this case, we generated images of a head and vertebra.
+Volume-rendered virtual reality learning objects using medical imaging data. This implementation allows users to 'slice' through the objects to visualize internal anatomy and renders CT scan or MRI data, in this case, it generated images of a head and vertebra.
 
 
 # Scene Graph

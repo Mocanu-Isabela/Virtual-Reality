@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y2xWVELOOg6Ustl6+MnyjBo3VRk1Dsqq+GWXMumxepkfDOLBDtA8+zswXPtVzCrfsmt9B4331mkshtrrwxSpkg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Isabela\\Desktop\\GitHub\\VR\\volume-renderer-Mocanu-Isabela\\VolumeRendering.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Isabela\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Isabela\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\Isabela\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\Isabela\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

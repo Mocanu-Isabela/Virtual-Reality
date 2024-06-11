@@ -1,0 +1,42 @@
+C:\Users\Cristi\Desktop\UBB Sem 5\VR\volume-renderer\bin\Debug\netcoreapp3.1\volume-renderer.exe
+C:\Users\Cristi\Desktop\UBB Sem 5\VR\volume-renderer\bin\Debug\netcoreapp3.1\volume-renderer.deps.json
+C:\Users\Cristi\Desktop\UBB Sem 5\VR\volume-renderer\bin\Debug\netcoreapp3.1\volume-renderer.runtimeconfig.json
+C:\Users\Cristi\Desktop\UBB Sem 5\VR\volume-renderer\bin\Debug\netcoreapp3.1\volume-renderer.runtimeconfig.dev.json
+C:\Users\Cristi\Desktop\UBB Sem 5\VR\volume-renderer\bin\Debug\netcoreapp3.1\volume-renderer.dll
+C:\Users\Cristi\Desktop\UBB Sem 5\VR\volume-renderer\bin\Debug\netcoreapp3.1\volume-renderer.pdb
+C:\Users\Cristi\Desktop\UBB Sem 5\VR\volume-renderer\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Cristi\Desktop\UBB Sem 5\VR\volume-renderer\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Cristi\Desktop\UBB Sem 5\VR\volume-renderer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Cristi\Desktop\UBB Sem 5\VR\volume-renderer\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Cristi\Desktop\UBB Sem 5\VR\volume-renderer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Cristi\Desktop\UBB Sem 5\VR\volume-renderer\obj\Debug\netcoreapp3.1\volume-renderer.csproj.AssemblyReference.cache
+C:\Users\Cristi\Desktop\UBB Sem 5\VR\volume-renderer\obj\Debug\netcoreapp3.1\volume-renderer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristi\Desktop\UBB Sem 5\VR\volume-renderer\obj\Debug\netcoreapp3.1\volume-renderer.AssemblyInfoInputs.cache
+C:\Users\Cristi\Desktop\UBB Sem 5\VR\volume-renderer\obj\Debug\netcoreapp3.1\volume-renderer.AssemblyInfo.cs
+C:\Users\Cristi\Desktop\UBB Sem 5\VR\volume-renderer\obj\Debug\netcoreapp3.1\volume-renderer.csproj.CoreCompileInputs.cache
+C:\Users\Cristi\Desktop\UBB Sem 5\VR\volume-renderer\obj\Debug\netcoreapp3.1\volume-renderer.csproj.CopyComplete
+C:\Users\Cristi\Desktop\UBB Sem 5\VR\volume-renderer\obj\Debug\netcoreapp3.1\volume-renderer.dll
+C:\Users\Cristi\Desktop\UBB Sem 5\VR\volume-renderer\obj\Debug\netcoreapp3.1\volume-renderer.pdb
+C:\Users\Cristi\Desktop\UBB Sem 5\VR\volume-renderer\obj\Debug\netcoreapp3.1\volume-renderer.genruntimeconfig.cache
+C:\Users\Cristi\Desktop\UBB Sem 5\VR\volume-renderer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Isabela\Desktop\GitHub\VR\volume-renderer-Mocanu-Isabela\bin\Debug\netcoreapp3.1\volume-renderer.exe
+C:\Users\Isabela\Desktop\GitHub\VR\volume-renderer-Mocanu-Isabela\bin\Debug\netcoreapp3.1\volume-renderer.deps.json
+C:\Users\Isabela\Desktop\GitHub\VR\volume-renderer-Mocanu-Isabela\bin\Debug\netcoreapp3.1\volume-renderer.runtimeconfig.json
+C:\Users\Isabela\Desktop\GitHub\VR\volume-renderer-Mocanu-Isabela\bin\Debug\netcoreapp3.1\volume-renderer.runtimeconfig.dev.json
+C:\Users\Isabela\Desktop\GitHub\VR\volume-renderer-Mocanu-Isabela\bin\Debug\netcoreapp3.1\volume-renderer.dll
+C:\Users\Isabela\Desktop\GitHub\VR\volume-renderer-Mocanu-Isabela\bin\Debug\netcoreapp3.1\volume-renderer.pdb
+C:\Users\Isabela\Desktop\GitHub\VR\volume-renderer-Mocanu-Isabela\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Isabela\Desktop\GitHub\VR\volume-renderer-Mocanu-Isabela\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Isabela\Desktop\GitHub\VR\volume-renderer-Mocanu-Isabela\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Isabela\Desktop\GitHub\VR\volume-renderer-Mocanu-Isabela\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Isabela\Desktop\GitHub\VR\volume-renderer-Mocanu-Isabela\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Isabela\Desktop\GitHub\VR\volume-renderer-Mocanu-Isabela\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Isabela\Desktop\GitHub\VR\volume-renderer-Mocanu-Isabela\obj\Debug\netcoreapp3.1\volume-renderer.AssemblyInfoInputs.cache
+C:\Users\Isabela\Desktop\GitHub\VR\volume-renderer-Mocanu-Isabela\obj\Debug\netcoreapp3.1\volume-renderer.AssemblyInfo.cs
+C:\Users\Isabela\Desktop\GitHub\VR\volume-renderer-Mocanu-Isabela\obj\Debug\netcoreapp3.1\volume-renderer.csproj.CoreCompileInputs.cache
+C:\Users\Isabela\Desktop\GitHub\VR\volume-renderer-Mocanu-Isabela\obj\Debug\netcoreapp3.1\volume-renderer.csproj.CopyComplete
+C:\Users\Isabela\Desktop\GitHub\VR\volume-renderer-Mocanu-Isabela\obj\Debug\netcoreapp3.1\volume-renderer.dll
+C:\Users\Isabela\Desktop\GitHub\VR\volume-renderer-Mocanu-Isabela\obj\Debug\netcoreapp3.1\volume-renderer.pdb
+C:\Users\Isabela\Desktop\GitHub\VR\volume-renderer-Mocanu-Isabela\obj\Debug\netcoreapp3.1\volume-renderer.genruntimeconfig.cache
+C:\Users\Isabela\Desktop\GitHub\VR\volume-renderer-Mocanu-Isabela\obj\Debug\netcoreapp3.1\volume-renderer.csproj.AssemblyReference.cache
+C:\Users\Isabela\Desktop\GitHub\VR\volume-renderer-Mocanu-Isabela\obj\Debug\netcoreapp3.1\volume-renderer.GeneratedMSBuildEditorConfig.editorconfig
